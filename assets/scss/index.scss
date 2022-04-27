@@ -1,0 +1,44 @@
+body {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+.nav-left-self {
+  padding-left: 280px;
+}
+.nav-right-self {
+  padding-right: 300px;
+}
+a {
+  text-decoration: none;
+}
+
+section {
+  width: auto;
+  height: 570px;
+}
+.self-pt {
+  padding-top: 10%;
+}
+.clr {
+  background-color: #0d6efd;
+}
+.clr1{
+    background-color: rgb(250, 244, 244);
+}
+.hvr-clr:hover {
+  background-color: white;
+  color: black !important;
+}
+.pddng{
+    padding: 5%;
+}
+.scilities{
+    padding-left: 25%;
+    padding-top: 11%;
+    padding-right: 25%;
+}
+.scilities p{
+    font-size: 25px;
+    color: black;
+}
