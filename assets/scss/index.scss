@@ -12,33 +12,44 @@ body {
 a {
   text-decoration: none;
 }
-
+// .en-uzun{
+//   width: auto !important; 
+//   height: auto !important;
+// }
 section {
-  width: auto;
-  height: 570px;
+  width: auto !important;
+  height: 100% !important;
 }
+// .section2 {
+//   width: auto;
+//   height: 370px;
+// }
 .self-pt {
   padding-top: 10%;
 }
 .clr {
   background-color: #0d6efd;
 }
-.clr1{
-    background-color: rgb(250, 244, 244);
+.clr1 {
+  background-color: rgb(248, 248, 248);
 }
 .hvr-clr:hover {
   background-color: white;
   color: black !important;
 }
-.pddng{
-    padding: 5%;
+.pddng {
+  padding: 5%;
 }
-.scilities{
-    padding-left: 25%;
-    padding-top: 11%;
-    padding-right: 25%;
+.scilities {
+  padding-left: 25%;
+  padding-top: 11%;
+  padding-right: 25%;
 }
-.scilities p{
-    font-size: 25px;
-    color: black;
+.scilities p {
+  font-size: 25px;
+  color: black;
+}
+.featuress {
+  width: 50px ;
+  height: 50px ;
 }
